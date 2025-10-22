@@ -5,8 +5,8 @@ COPY package*.json ./
 RUN npm ci
 COPY . .
 RUN npm run build
-#dgfgnhmj
-
+#dgfgnhmjlekjgjkg
+#jirg
 # 2. Serve stage
 FROM nginx:stable-alpine
 COPY --from=build /app/dist /usr/share/nginx/html
