@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+HI I AM IBRAHIM# React + Vite  2 5  and hi i am anas
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15,6 +18,7 @@ HI I AM IBRAHIM# React + Vite  2 5  and hi i am anas
 =======
 HI I AM IBRAHIM# React + Vite  2 5  and hi i am anas
 >>>>>>> 4d0a94405b15c8087f78b460df8482df2c7cb176
+>>>>>>> 4549f293bd5c968f059710e71cb00f849a85bb00
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
