@@ -5,6 +5,7 @@ COPY package*.json ./
 RUN npm ci
 COPY . .
 RUN npm run build
+#dgfgnhmj
 
 # 2. Serve stage
 FROM nginx:stable-alpine
