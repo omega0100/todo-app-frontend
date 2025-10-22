@@ -5,6 +5,8 @@ COPY package*.json ./
 RUN npm ci
 COPY . .
 RUN npm run build
+#dgfgnhmjlekjgjkg
+#jirg
 # 2. Serve stage
 
 # 2. Serve stage
