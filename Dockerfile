@@ -12,3 +12,7 @@ COPY --from=build /app/dist /usr/share/nginx/html
 # Optional: copy a custom nginx.conf if you need routing fallback
 EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
+
+
+
+# this is a comment line added to test git diff feature after initial creation of the file 
